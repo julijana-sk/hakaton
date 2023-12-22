@@ -5,8 +5,8 @@
 }
 
 // Font settings
-$font-family-base: 'Roboto', sans-serif;
-$font-family-primary: 'Reenie Beanie', cursive;
+// $font-family-base: 'Amulya-Variable', sans-serif;
+// $font-family-primary: 'CabinetGrotesk-Variable', serif;
 
 $font-size-tiny: rem-calc(9);
 $font-size-smaller: rem-calc(11);
@@ -27,18 +27,13 @@ $font-weight-bold: 700;
 $gutter-base: rem-calc(30);
 
 // Color settings
-$grey-level-1: #f8f8f8;
-$grey-level-2: #e5e5e5;
-$grey-level-3: #b9b9b9;
-$grey-level-4: #5a5a5a;
-
-$primary-color: #fcebd5;
-$secondary-color: #a16a5e;
-$beige-color: #edd5bb;
-$powder-color: #e09686;
-$brick-color: #d44c2e;
-$blue-color: #1b59ac;
-$green-color: #1bac6f;
+$white-color: #fbfaf8;
+$black-color: #1c1a1b;
+$brown-color: #3c1913;
+$orange-color: #9b4923;
+$pink-color: #e0baad;
+$green-color: #316d61;
+$dark-green-color: #394e49;
 
 // Border
 $border-base: 1px solid $grey-level-2;
