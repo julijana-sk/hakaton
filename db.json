@@ -1,19 +1,42 @@
 {
-  "posts": [
+  "products": [
     {
       "id": 1,
-      "title": "json-server",
-      "author": "typicode"
+      "price": 13,
+      "title": "Copper Spiral & White Beads Earrings",
+      "images": [
+        "/images/Jewelry-Page-Earrings/earrings 1.jpg",
+        "/images/Jewelry-Page-Earrings/earrings 1.jpg",
+        "/images/Jewelry-Page-Earrings/earrings 1.jpg",
+        "/images/Jewelry-Page-Earrings/earrings 1.jpg"
+      ],
+      "description": "Blending modern style with classic elegance, we introduce our Copper Spiral and White Beads Earrings. Crafted with precision, these earrings feature gracefully coiled copper spirals, adding a touch of contemporary flair. The pristine white beads suspended within the spirals bring a clean and timeless aesthetic to the design. Elevate your look with this understated yet captivating accessory, perfect for both casual and formal occasions.",
+      "quantity": "2",
+      "category": "jewelry",
+      "type": "earrings",
+      "isAccessory": false,
+      "isDiscounting": true,
+      "isFavorite": false,
+      "isAddedToCard": false
+    },
+     {
+      "id": 2,
+      "price": 13,
+      "title": "Copper Spiral & White Beads Earrings",
+      "images": [
+        "/images/Jewelry-Page-Earrings/earrings 2.jpg",
+        "/images/Jewelry-Page-Earrings/earrings 2.jpg",
+        "/images/Jewelry-Page-Earrings/earrings 2.jpg",
+        "/images/Jewelry-Page-Earrings/earrings 2.jpg"
+      ],
+      "description": "Blending modern style with classic elegance, we introduce our Copper Spiral and White Beads Earrings. Crafted with precision, these earrings feature gracefully coiled copper spirals, adding a touch of contemporary flair. The pristine white beads suspended within the spirals bring a clean and timeless aesthetic to the design. Elevate your look with this understated yet captivating accessory, perfect for both casual and formal occasions.",
+      "quantity": "2",
+      "category": "jewelry",
+      "type": "earrings",
+      "isAccessory": false,
+      "isDiscounting": true,
+      "isFavorite": false,
+      "isAddedToCard": false
     }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }

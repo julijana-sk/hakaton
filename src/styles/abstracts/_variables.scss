@@ -1,4 +1,4 @@
-@use 'sass:math';
+@use "sass:math";
 
 @function rem-calc($size) {
   @return (math.div($size, 16)) * 1rem;
@@ -36,7 +36,7 @@ $green-color: #316d61;
 $dark-green-color: #394e49;
 
 // Border
-$border-base: 1px solid $grey-level-2;
+$border-base: 1px solid #9b4923;
 
 // Shadow
 $shadow-primary: 0px 2px 2px 0px #00000040;
